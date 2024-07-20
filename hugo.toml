@@ -5,7 +5,7 @@ theme = "digitalgarden"
 
 
 [Params]
-  description = "My Digital Garden on the Internet"
+  description = "GFM"
   images = ['/digital-garden-logo.png']
   enableSearch = true
 
