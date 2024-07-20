@@ -1,6 +1,6 @@
-baseURL = "https://runtus.github.io/awesome-graph-foundation-model/"
+baseURL = "https://currytang.github.io/gfm_webpage/"
 languageCode = "en-us"
-title = "Personal Digital Garden"
+title = "Graph Foundation Model"
 theme = "digitalgarden"
 
 
