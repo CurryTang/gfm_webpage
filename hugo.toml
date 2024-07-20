@@ -7,7 +7,7 @@ theme = "digitalgarden"
 [Params]
   description = "GFM"
   images = ['/digital-garden-logo.png']
-  enableSearch = true
+  enableSearch = false
 
 [Params.newsletter]
   title = ""
